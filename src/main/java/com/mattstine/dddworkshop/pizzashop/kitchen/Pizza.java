@@ -5,7 +5,6 @@ import com.mattstine.dddworkshop.pizzashop.infrastructure.events.ports.EventLog;
 import com.mattstine.dddworkshop.pizzashop.infrastructure.events.ports.Topic;
 import com.mattstine.dddworkshop.pizzashop.infrastructure.repository.ports.Aggregate;
 import com.mattstine.dddworkshop.pizzashop.infrastructure.repository.ports.AggregateState;
-import com.sun.xml.internal.bind.v2.model.core.ID;
 import lombok.Builder;
 import lombok.NonNull;
 import lombok.Value;
